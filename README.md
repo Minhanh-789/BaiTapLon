@@ -14,11 +14,11 @@ schedule – Lập lịch chạy định kỳ.
 csv, time, sys – Xử lý dữ liệu và thời gian.
 
 ## Cấu trúc dự án
-css
-Sao chép
-Chỉnh sửa
+
 ├── alonhadat.py                  # File chính chạy chương trình
+
 ├── requirements.txt         # Danh sách thư viện cần cài
+
 └── alonhadat_bietthu_danang.csv  # File kết quả (tự động tạo sau khi chạy)
 
 ## Hướng dẫn cài đặt và sử dụng
